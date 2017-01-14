@@ -1,5 +1,7 @@
 package dao;
-
+/*
+ * 
+ */
 import modelEntidade.CadCliente;
 
 public interface CadClienteDAO {
