@@ -1,7 +1,8 @@
 package modelEntidade;
 
+
 public class CadFuncionario {
-	
+
 	private String idFuncionario; 
 	private String idLogin; 
 	private String nome;
